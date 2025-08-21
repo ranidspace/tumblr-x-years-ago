@@ -24,7 +24,7 @@ says "Show secret key", paste these in during the setup when it asks.
 ## Usage
 
 ```bash
-tumblryearsago.py
+python tumblryearsago.py
 ```
 
 No command line arguments. On first run it will ask for a blog name to post to,
