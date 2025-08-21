@@ -8,8 +8,8 @@ certain amount of time ago as they were being posted.
 
 ## Setup
 
-Clone this repository, optionally create a venv, then run `pip install
-PyTumblr2`.
+Clone this repository or just download the python file, optionally create a
+venv, then run `pip install PyTumblr2`.
 
 You will need a tumblr application consumer and secret token, you can get this
 by visiting [tumblr's application page](https://www.tumblr.com/oauth/apps) and
